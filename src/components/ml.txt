@@ -1,0 +1,20 @@
+15.Comment section 
+1.Todo List App: drag and drop	
+4.live chat app
+
+	
+
+2.Counter Component:
+3.User Form
+
+1.Weather App:
+2.Image Gallery:	
+3.Product List with Search and Filter:
+
+
+
+
+
+Add accordian to the MAL app 
+Make the manga page responsive
+Restyle the anime page
